@@ -3,7 +3,7 @@ suppressMessages(library(dplyr))
 suppressMessages(library(readxl))
 args=commandArgs(trailingOnly=TRUE)
 
-test <- read_excel("~/University\ of\ North\ Carolina\ at\ Chapel\ Hill/DEPENd_Lab\ -\ Documents/NeuroMAP/Study\ Administration/Master\ spreadsheets/NEUROMAP\ Master\ UNC\ copy.xlsx", sheet="Tracker")
+test <- read_excel("~/University\ of\ North\ Carolina\ at\ Chapel\ Hill/DEPENd_Lab\ -\ Documents/NeuroMAP/Study\ Administration/Master\ spreadsheets/NEUROMAP\ Master\ UNC.xlsx", sheet="Tracker")
 
 hit_counter<-0
 stop_counter<-0
@@ -24,7 +24,7 @@ while(stop_counter <5){
 }
 
 if(hit_counter==0){
-  print("No participant found. Perhaps you entered the wrong name, or your copy of the Master is outdated.")
+  print("No participant found. Perhaps you entered the wrong name, or your OneDrive folder needs to be synced with the online account.")
 } else if (hit_counter==2){
   print("Multiple participants match those initials. You'll need to find the information manually.")
 } else if(hit_counter==1){
