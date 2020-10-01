@@ -10,10 +10,10 @@ alias all="Rscript neuromap_info/pull_info_from_master.R all"
 3. Make sure you have our lab's OneDrive folder in your home directory. This script will pull from the master spreadsheet located in this folder.
 
 Once you've completed the steps above, you will be able to get participants' info by opening a new Terminal session and entering one of the following commands:
-"group <first two letters of first name> <first two letters of last name>" to get the group the participant screened into (e.g., BPD)
-"id <first two letters of first name> <first two letters of last name>" to get the participant's ID
-"name <first two letters of first name> <first two letters of last name>" to get the participant's full name
-"all <first two letters of first name> <first two letters of last name>" to get all of the above: the group, ID, and name of the participant
+"group TWO-LETTER INITIALS" to get the group the participant screened into (e.g., BPD)
+"id TWO-LETTER INITIALS" to get the participant's ID
+"name TWO-LETTER INITIALS" to get the participant's full name
+"all TWO-LETTER INITIALS" to get all of the above: the group, ID, and name of the participant
 
 
 
