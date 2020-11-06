@@ -34,7 +34,7 @@ if(hit_counter==0){
 } else if(hit_counter==1){
   if (args[1]=="sad"){
     if(test$`SCREENING GROUP`[right_row]=="SAD"){
-      print("Eligible")
+      print("Eligible (unless you are confident it is performance-only SAD)")
     } else if((test$`SCREENING GROUP`[right_row]=="HC") | (test$`SCREENING GROUP`[right_row]=="BPD")){
       print("Not eligible")
     } else {
