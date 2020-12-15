@@ -1,0 +1,7 @@
+alias scid="open -a 'Adobe Acrobat Reader DC' ~/University\ of\ North\ Carolina\ at\ Chapel\ Hill/DEPENd_Lab\ -\ Documents/NeuroMAP/Data/NEUROMAP\ Subject\ ID\ Folders/DISTRIBUTED_FORMS/NeuroMAP_SCID-5-CV_with_specifier_Dec2020_distributed.pdf"
+alias ss="open -a 'Adobe Acrobat Reader DC' ~/University\ of\ North\ Carolina\ at\ Chapel\ Hill/DEPENd_Lab\ -\ Documents/NeuroMAP/Data/NEUROMAP\ Subject\ ID\ Folders/DISTRIBUTED_FORMS/NeuroMAP_SAD_specifier_distributed.pdf"
+alias sad="Rscript ~/neuromap_info/pull_info_from_master.R sad"
+alias no_sad="Rscript ~/neuromap_info/pull_info_from_master.R no_sad"
+alias id="Rscript ~/neuromap_info/pull_info_from_master.R id"
+alias name="Rscript ~/neuromap_info/pull_info_from_master.R name"
+alias s1urls="cat ~/neuromap_info/s1links.txt" 

@@ -28,7 +28,7 @@ while(stop_counter <5){
 }
 
 if(hit_counter==0){
-  print("No participant found. Perhaps you entered the wrong name, or your OneDrive folder needs to be synced with the online account.")
+  print("No participant found. Perhaps you entered the wrong name, or your OneDrive folder needs to be synced with the SharePoint.")
 } else if (hit_counter==2){
   print("Multiple participants match those initials. You'll need to find the information manually.")
 } else if(hit_counter==1){
