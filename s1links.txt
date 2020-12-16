@@ -8,4 +8,6 @@ Data tab of informed consent:
 https://unc.az1.qualtrics.com/responses/#/surveys/SV_3fl7SiqVIFLjcJD
 SCID Overview: https://unc.az1.qualtrics.com/jfe/form/SV_0k7MpIb4bTnyfe5
 S2 scheduling link: https://app.acuityscheduling.com/schedule.php?owner=18179312&appointmentType=category:Session%202
+SCID 5 Diagnostic Summary:https://unc.az1.qualtrics.com/jfe/form/SV_8iSvOGbpl8VgiAB
 End of Session Checklist: https://unc.az1.qualtrics.com/jfe/form/SV_23S2sjLm5Lmq7Ah
+After visit summary: https://unc.az1.qualtrics.com/jfe/form/SV_24vBncALjjsRG5f
