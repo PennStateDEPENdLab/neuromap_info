@@ -53,6 +53,8 @@ if(hit_counter==0){
     print(test$ID[right_row])
   } else if (args[1]=="name"){
     print(test$NAME[right_row])
+  } else if (args[1] == "group"){
+    print(test$`ACTUAL GROUP`[right_row])
   }
 }
 
